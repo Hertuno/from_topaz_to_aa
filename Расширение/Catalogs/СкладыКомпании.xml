@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="8cd8826a-b169-47b6-bdef-e5d858cf1490">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СкладыКомпании" category="Object">
+				<xr:TypeId>6dafd568-3f9d-42c4-ba8c-9b165ddf5dcc</xr:TypeId>
+				<xr:ValueId>d0713102-0af7-4f2d-bef6-df39f66ffd24</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СкладыКомпании" category="Ref">
+				<xr:TypeId>e189bfb8-e0de-4e47-a147-751c62bf5b86</xr:TypeId>
+				<xr:ValueId>11793620-722c-454e-bda1-2db6a6352583</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СкладыКомпании" category="Selection">
+				<xr:TypeId>aa3275cd-5e72-4750-901e-2a3abd5795fd</xr:TypeId>
+				<xr:ValueId>3e0f46e6-5856-442f-924d-f8fc4dbcb626</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СкладыКомпании" category="List">
+				<xr:TypeId>1bbaf21f-8da8-4ffb-8731-eeb3ff9d6672</xr:TypeId>
+				<xr:ValueId>7bba8ec8-237f-4ff6-b145-f694c218b32d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СкладыКомпании" category="Manager">
+				<xr:TypeId>8bdf7c41-f09d-486a-a000-c5a05dfc9a4e</xr:TypeId>
+				<xr:ValueId>798ee1f0-76de-44ac-92ec-0add3a4c2df1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СкладыКомпании</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e06f3223-159d-4bcf-8288-a0a34f7939d6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

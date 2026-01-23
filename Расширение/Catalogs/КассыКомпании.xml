@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="28a53201-15eb-4d95-89f1-56cf4ea8758d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КассыКомпании" category="Object">
+				<xr:TypeId>7bd226b0-3658-4c5a-8f24-67e3710d61a8</xr:TypeId>
+				<xr:ValueId>4f6897a8-e25d-44ca-81f1-65efd48b8850</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КассыКомпании" category="Ref">
+				<xr:TypeId>53879713-1074-43a4-9d09-b88748cdb9f6</xr:TypeId>
+				<xr:ValueId>0f39da8d-8dc0-4fb4-860f-f985825b8b8a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КассыКомпании" category="Selection">
+				<xr:TypeId>41eaef23-3763-427b-8657-7e2dfe554a3d</xr:TypeId>
+				<xr:ValueId>5a5a59a3-0e4c-44dc-8b23-88751460bfb6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КассыКомпании" category="List">
+				<xr:TypeId>ad25bd1f-91dd-45a9-b1f7-103b4fa77dd2</xr:TypeId>
+				<xr:ValueId>712245e3-3c80-4770-ae60-890e025253e0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КассыКомпании" category="Manager">
+				<xr:TypeId>080d7ad3-3aaf-4078-a2bc-4e286be4eaa6</xr:TypeId>
+				<xr:ValueId>a18bbc71-4f36-45c9-9693-36fb2fa45dab</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КассыКомпании</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>865bab04-5485-4d60-8a1a-9f94e5eee177</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

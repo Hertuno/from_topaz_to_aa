@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ДоговорыВзаиморасчетов" id="0af64a8d-385e-4e60-b142-67d62ded6fb7" configVersion="9eb424cfaba11eefe6d8eca47515e3133dec8386"/>
+		<Metadata name="Catalog.КассыККМ" id="78466d84-d7cf-48f5-91e0-7e932b91020f" configVersion="35af38c882c58a378ec8c1afc68aa1c955e90062"/>
+		<Metadata name="Catalog.КассыКомпании" id="28a53201-15eb-4d95-89f1-56cf4ea8758d" configVersion="9569fd689b8007a23326c09ce773f195c63aa7c7"/>
+		<Metadata name="Catalog.Контрагенты" id="4b488929-4fe6-4d6d-861a-6ee76a5c1286" configVersion="861892c8804ae4af5b2fffbe7c98d07df183f0e4"/>
+		<Metadata name="Catalog.Организации" id="bae80574-2d17-4500-9eeb-bf209db2a916" configVersion="299f7b0398b6fb4deb0aa288c5fda3f374882c87"/>
+		<Metadata name="Catalog.ПодразделенияКомпании" id="4a03548f-b415-4442-9506-5fbfaf91c666" configVersion="5b97d7f65b3ed328a0c83a9d47f80a44d7b33cbb"/>
+		<Metadata name="Catalog.СкладыКомпании" id="8cd8826a-b169-47b6-bdef-e5d858cf1490" configVersion="b35c84dda0fae57331399e3318e98259872f6d72"/>
+		<Metadata name="Catalog.Сотрудники" id="9b6b0e50-8b2e-4b3e-b0e9-9f0b2c24335c" configVersion="5b3a1688c7da393d720bfc09a69ec438ec7be540"/>
+		<Metadata name="Catalog.ТипыЦен" id="67636c8b-c178-45cb-a522-14d2278b285b" configVersion="f2984006fdc93450d0b43c9d7b95a6279c714e0c"/>
+		<Metadata name="CommonModule.ЗагрузкаТОПАЗОбщий" id="40618954-07b0-4e97-8887-90e21e02fb5b" configVersion="68697eb8b1b690858bc73a285c1d05394d961e39"/>
+		<Metadata name="CommonModule.ЗагрузкаТОПАЗОбщий.Module" id="40618954-07b0-4e97-8887-90e21e02fb5b.0" configVersion="897c5d658ce211f75f67999c943a1518218292ec"/>
+		<Metadata name="Configuration.Топаз" id="3651a0ed-d754-4f29-8e3c-534faac84f2c" configVersion="1dddf2b3d959a7e89eb9d26f5a2d646f3ecd41b0"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82" configVersion="3ee1dac54ef8003a6165802a2af0c27df7f8087d"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ.ObjectModule" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82.0" configVersion="6c7cf041dbaf9a8c49c853c874adb9e1f1f0ef54"/>
+		<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ" id="921cbf9a-7724-4eba-99d6-aa94e1b83652" configVersion="b27c0781b3f7d3401524c0db1a17bc892a84b147">
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Dimension.Организация" id="03422ac3-ed9f-48ab-aac4-f0f2129ce724"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.КаталогЗагрузки" id="30e8afda-4645-4f5b-987d-ee7b90686b00"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.МенеджерПоУмолчанию" id="3e966dc2-0b31-444e-b1bd-32ef6c97c46a"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.СкладКомпании" id="5044549d-9c04-4cf2-99ef-cd7a4678a7a5"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ДоговорПлатежнойСистемы" id="5dcffeda-29ed-4c85-b040-6dbae758646a"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ТипЦен" id="66c2be5f-bac7-41e8-b1ea-197c9f9ae137"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.КассаККМ" id="6e3c338c-2bfa-48db-bf4d-5015e6e9e1ff"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.КассаКомпании" id="738a0854-12a0-4f5a-9abb-7a376d1ed7a5"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.Инкассатор" id="7c80200d-d582-4e8d-a74c-436e291072e2"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ПодразделениеКомпании" id="a0beccdc-79c2-4864-8974-b5fd6179fa68"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ПлатежнаяСистема" id="a37788b3-4f31-4507-89c1-eb06fa7bfba8"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ДоговорИнкассации" id="cd86242a-2ddb-4f1f-bc2c-11c3b38bbda0"/>
+			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ДоговорРозничныйПоУмолчанию" id="f2cd8798-cdb4-465c-96ca-587a1bfd8253"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="1b8f8f69-13ad-4452-8cae-404c0b3d6da2" configVersion="30c111371a255b6b9672c6b0a6e063ca77793b4b"/>
+		<Metadata name="Role.Топаз_ОсновнаяРоль" id="a35df82b-5f2a-4021-a21d-c76d413df78b" configVersion="bff0088bfa63ab89568d6d9b2f16439c76903e21"/>
+		<Metadata name="ScheduledJob.ЗагрузкаДанныхИзТОПАЗ" id="3a8c8d6f-5877-4557-84a3-884346d73554" configVersion="ff69934454abd480bbb041cfd9d4b3f023cac77a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

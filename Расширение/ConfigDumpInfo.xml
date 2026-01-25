@@ -11,11 +11,13 @@
 		<Metadata name="Catalog.Сотрудники" id="9b6b0e50-8b2e-4b3e-b0e9-9f0b2c24335c" configVersion="5b3a1688c7da393d720bfc09a69ec438ec7be540"/>
 		<Metadata name="Catalog.ТипыЦен" id="67636c8b-c178-45cb-a522-14d2278b285b" configVersion="f2984006fdc93450d0b43c9d7b95a6279c714e0c"/>
 		<Metadata name="CommonModule.ЗагрузкаТОПАЗОбщий" id="40618954-07b0-4e97-8887-90e21e02fb5b" configVersion="68697eb8b1b690858bc73a285c1d05394d961e39"/>
-		<Metadata name="CommonModule.ЗагрузкаТОПАЗОбщий.Module" id="40618954-07b0-4e97-8887-90e21e02fb5b.0" configVersion="897c5d658ce211f75f67999c943a1518218292ec"/>
-		<Metadata name="Configuration.Топаз" id="3651a0ed-d754-4f29-8e3c-534faac84f2c" configVersion="1dddf2b3d959a7e89eb9d26f5a2d646f3ecd41b0"/>
-		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82" configVersion="3ee1dac54ef8003a6165802a2af0c27df7f8087d"/>
-		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ.ObjectModule" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82.0" configVersion="6c7cf041dbaf9a8c49c853c874adb9e1f1f0ef54"/>
-		<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ" id="921cbf9a-7724-4eba-99d6-aa94e1b83652" configVersion="b27c0781b3f7d3401524c0db1a17bc892a84b147">
+		<Metadata name="CommonModule.ЗагрузкаТОПАЗОбщий.Module" id="40618954-07b0-4e97-8887-90e21e02fb5b.0" configVersion="b2264ff9a9a677904f2723d7a21622ed2425b629"/>
+		<Metadata name="Configuration.Топаз" id="3651a0ed-d754-4f29-8e3c-534faac84f2c" configVersion="2c1be274c9cc92240f0bbd0da6084fa4f3511a09"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82" configVersion="19b0a6eb11ab8d4712503778d018be0a6a53fe52"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ.Form.Форма" id="20eb601d-73eb-421c-b74a-af44f48713b0" configVersion="2a490d285a28f97438958a94289c77e661d64ac9"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ.Form.Форма.Form" id="20eb601d-73eb-421c-b74a-af44f48713b0.0" configVersion="bd73abd22c4bd9bd1a53efc33dfcb32e057bbc95"/>
+		<Metadata name="DataProcessor.ЗагрузкаДанныхИзТОПАЗ.ObjectModule" id="2a6ef4a5-539d-4687-96c4-05f5ee1d4a82.0" configVersion="ce13f5ac36bb9efd5c7f7f13da832cd752e2cdfd"/>
+		<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ" id="921cbf9a-7724-4eba-99d6-aa94e1b83652" configVersion="5259ee39cdf212bcecd030385d2a8f50af16e48b">
 			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Dimension.Организация" id="03422ac3-ed9f-48ab-aac4-f0f2129ce724"/>
 			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.КаталогЗагрузки" id="30e8afda-4645-4f5b-987d-ee7b90686b00"/>
 			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.МенеджерПоУмолчанию" id="3e966dc2-0b31-444e-b1bd-32ef6c97c46a"/>
@@ -31,7 +33,7 @@
 			<Metadata name="InformationRegister.НастройкиЗагрузкиТОПАЗ.Resource.ДоговорРозничныйПоУмолчанию" id="f2cd8798-cdb4-465c-96ca-587a1bfd8253"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="1b8f8f69-13ad-4452-8cae-404c0b3d6da2" configVersion="30c111371a255b6b9672c6b0a6e063ca77793b4b"/>
-		<Metadata name="Role.Топаз_ОсновнаяРоль" id="a35df82b-5f2a-4021-a21d-c76d413df78b" configVersion="bff0088bfa63ab89568d6d9b2f16439c76903e21"/>
+		<Metadata name="Role.Топаз_ОсновнаяРоль" id="a35df82b-5f2a-4021-a21d-c76d413df78b" configVersion="402a6f51f04707e0bf7604aa50f7d92870a54169"/>
 		<Metadata name="ScheduledJob.ЗагрузкаДанныхИзТОПАЗ" id="3a8c8d6f-5877-4557-84a3-884346d73554" configVersion="ff69934454abd480bbb041cfd9d4b3f023cac77a"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DataPaket Version="3.15" DateTime="01.02.2026 8:10:18" Type="Aggregated" AZSCode="1">
+	<Sessions>
+		<Session SessionNum="287" StartDateTime="31.01.2026 19:40:43" EndDateTime="01.02.2026 8:07:12" UserName="Щербинина В.В">
+			<Tanks>
+				<Tank TankNum="1" StartFuelVolume="100000" EndFactVolume="" EndDensity="" EndTemperature="" EndHeight="" EndMass="" EndWater="" TankExtCode="" DeadRest="40" DeadRestLiter="500"/>
+			</Tanks>
+			<Hoses>
+				<Hose HoseNum="1" StartCounter="41374,99" EndCounter="41374,99" PumpNum="1" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="2" StartCounter="54292,66" EndCounter="54292,66" PumpNum="2" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="3" StartCounter="69846,11" EndCounter="70341,74" PumpNum="3" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="4" StartCounter="27117,91" EndCounter="27117,91" PumpNum="4" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="5" StartCounter="" EndCounter="" PumpNum="5" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="6" StartCounter="" EndCounter="" PumpNum="6" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="7" StartCounter="" EndCounter="" PumpNum="7" NumInPump="1" HoseType="1"/>
+				<Hose HoseNum="8" StartCounter="" EndCounter="" PumpNum="8" NumInPump="1" HoseType="1"/>
+			</Hoses>
+			<OutcomesByRetail>
+				<OutcomeByRetail TankNum="1" HoseName="3" FuelName="КПГ" PaymentModeName="Топливная карта" AgentName=" &lt;Не выбрано&gt;" CardCode="" OfficeCardCode="E0F23D3F10" PartnerName=" &lt;Не выбран&gt;" PartnerINN="" TankExtCode="" FuelExtCode="101" PaymentModeExtCode="" AgentExtCode="" PartnerExtCode="" Volume="495,63" Amount="10656,06" Mass="0" OrigPrice="25,2" OrderCount="5" Remark="1" AmountCash="10656,06" AmountCashless="0"/>
+			</OutcomesByRetail>
+			<OutcomesByWholesale/>
+			<IncomesByDischarge/>
+			<IncomesByWholesale/>
+			<ItemOutcomesByRetail/>
+			<ItemOutcomesByPaysheet/>
+			<CashFlow/>
+			<OutcomesByCoupon/>
+			<OutcomesByOffice>
+				<OutcomeByOffice Date="31.01.2026" Time="22:00:00" TankNum="1" TankExtCode="" HoseName="3" FuelName="КПГ" FuelExtCode="101" PaymentModeName="Топливная карта" PaymentModeExtCode="" Remark="1" Volume="8,51" Amount="182,97" Mass="0" OrigPrice="25,2" AmountTotal="182,97" AmountByBonuses="0">
+					<CardCode>6C803C3FEF</CardCode>
+					<Schema Type="1"/>
+					<PartnerName>АО &quot;Тобольское ПАТП&quot;</PartnerName>
+					<PartnerINN>7206017177</PartnerINN>
+					<PartnerExtCode/>
+					<AmountExtCode/>
+					<LimitCard_AgentID>0</LimitCard_AgentID>
+					<LimitCard_Name>6C803C3FEF</LimitCard_Name>
+					<LimitCard_CardCode>6C803C3FEF</LimitCard_CardCode>
+					<LimitCard_CardType>0</LimitCard_CardType>
+					<LimitCard_ExtCode/>
+					<LimitCard_CarName>YUTONG ZK6128HN</LimitCard_CarName>
+					<LimitCard_CarNumber>1409</LimitCard_CarNumber>
+				</OutcomeByOffice>
+				<OutcomeByOffice Date="31.01.2026" Time="22:12:41" TankNum="1" TankExtCode="" HoseName="3" FuelName="КПГ" FuelExtCode="101" PaymentModeName="Топливная карта" PaymentModeExtCode="" Remark="1" Volume="117,89" Amount="2534,64" Mass="0" OrigPrice="25,2" AmountTotal="2534,64" AmountByBonuses="0">
+					<CardCode>6C803C3FEF</CardCode>
+					<Schema Type="1"/>
+					<PartnerName>АО &quot;Тобольское ПАТП&quot;</PartnerName>
+					<PartnerINN>7206017177</PartnerINN>
+					<PartnerExtCode/>
+					<AmountExtCode/>
+					<LimitCard_AgentID>0</LimitCard_AgentID>
+					<LimitCard_Name>6C803C3FEF</LimitCard_Name>
+					<LimitCard_CardCode>6C803C3FEF</LimitCard_CardCode>
+					<LimitCard_CardType>0</LimitCard_CardType>
+					<LimitCard_ExtCode/>
+					<LimitCard_CarName>YUTONG ZK6128HN</LimitCard_CarName>
+					<LimitCard_CarNumber>1409</LimitCard_CarNumber>
+				</OutcomeByOffice>
+				<OutcomeByOffice Date="31.01.2026" Time="22:27:11" TankNum="1" TankExtCode="" HoseName="3" FuelName="КПГ" FuelExtCode="101" PaymentModeName="Топливная карта" PaymentModeExtCode="" Remark="1" Volume="47,11" Amount="1012,87" Mass="0" OrigPrice="25,2" AmountTotal="1012,87" AmountByBonuses="0">
+					<CardCode>6C803C3FEF</CardCode>
+					<Schema Type="1"/>
+					<PartnerName>АО &quot;Тобольское ПАТП&quot;</PartnerName>
+					<PartnerINN>7206017177</PartnerINN>
+					<PartnerExtCode/>
+					<AmountExtCode/>
+					<LimitCard_AgentID>0</LimitCard_AgentID>
+					<LimitCard_Name>6C803C3FEF</LimitCard_Name>
+					<LimitCard_CardCode>6C803C3FEF</LimitCard_CardCode>
+					<LimitCard_CardType>0</LimitCard_CardType>
+					<LimitCard_ExtCode/>
+					<LimitCard_CarName>YUTONG ZK6128HN</LimitCard_CarName>
+					<LimitCard_CarNumber>1409</LimitCard_CarNumber>
+				</OutcomeByOffice>
+				<OutcomeByOffice Date="31.01.2026" Time="22:30:45" TankNum="1" TankExtCode="" HoseName="3" FuelName="КПГ" FuelExtCode="101" PaymentModeName="Топливная карта" PaymentModeExtCode="" Remark="1" Volume="7,66" Amount="164,69" Mass="0" OrigPrice="25,2" AmountTotal="164,69" AmountByBonuses="0">
+					<CardCode>6C803C3FEF</CardCode>
+					<Schema Type="1"/>
+					<PartnerName>АО &quot;Тобольское ПАТП&quot;</PartnerName>
+					<PartnerINN>7206017177</PartnerINN>
+					<PartnerExtCode/>
+					<AmountExtCode/>
+					<LimitCard_AgentID>0</LimitCard_AgentID>
+					<LimitCard_Name>6C803C3FEF</LimitCard_Name>
+					<LimitCard_CardCode>6C803C3FEF</LimitCard_CardCode>
+					<LimitCard_CardType>0</LimitCard_CardType>
+					<LimitCard_ExtCode/>
+					<LimitCard_CarName>YUTONG ZK6128HN</LimitCard_CarName>
+					<LimitCard_CarNumber>1409</LimitCard_CarNumber>
+				</OutcomeByOffice>
+				<OutcomeByOffice Date="01.02.2026" Time="8:05:05" TankNum="1" TankExtCode="" HoseName="3" FuelName="КПГ" FuelExtCode="101" PaymentModeName="Топливная карта" PaymentModeExtCode="" Remark="1" Volume="314,46" Amount="6760,89" Mass="0" OrigPrice="25,2" AmountTotal="6760,89" AmountByBonuses="0">
+					<CardCode>E0F23D3F10</CardCode>
+					<Schema Type="1"/>
+					<PartnerName>АО &quot;Тобольское ПАТП&quot;</PartnerName>
+					<PartnerINN>7206017177</PartnerINN>
+					<PartnerExtCode/>
+					<AmountExtCode/>
+					<LimitCard_AgentID>0</LimitCard_AgentID>
+					<LimitCard_Name>E0F23D3F10</LimitCard_Name>
+					<LimitCard_CardCode>E0F23D3F10</LimitCard_CardCode>
+					<LimitCard_CardType>0</LimitCard_CardType>
+					<LimitCard_ExtCode/>
+					<LimitCard_CarName>YUTONG ZK6128HN</LimitCard_CarName>
+					<LimitCard_CarNumber>1405</LimitCard_CarNumber>
+				</OutcomeByOffice>
+			</OutcomesByOffice>
+			<OutcomesByCards/>
+			<HosesLocking/>
+			<TechReturns/>
+			<SurplusPostings/>
+			<LossRetirements/>
+			<OutcomesBySpasibo/>
+			<OutcomesByOEMedia/>
+			<TradeDocsInBills/>
+			<TradeDocsOutBills/>
+			<TradeDocsInActs/>
+			<TradeDocsOutActs/>
+			<TradeDocsMoveItems/>
+			<ItemRests>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Tornado Max Black пэт 1,0" ItemCode="7640157157382"/>
+				<ItemRest ItemRest="4" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Вода питьева Niagara Premium артезианская, 5л пэт" ItemCode="4607017050194"/>
+				<ItemRest ItemRest="13" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Вода питьевая Святой Источник ПЭТ 0,5л газ" ItemCode="4603934000755"/>
+				<ItemRest ItemRest="24" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Вода питьевая Святой Источник ПЭТ 0,5л негаз" ItemCode="4603934000786"/>
+				<ItemRest ItemRest="6" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Вода питьевая Святой Источник ПЭТ 1,5л негаз" ItemCode="4603934000779"/>
+				<ItemRest ItemRest="23" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Зажигалка ПЬЕЗО-ЗАЖИГАЛКА DA-011 Delta Phantom" ItemCode="6976772760036"/>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток газированный Cola by FB Original пэт 0,48" ItemCode="7640157155067"/>
+				<ItemRest ItemRest="6" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток газированный Cola by FB Original пэт 1,5 л" ItemCode="7640157155272"/>
+				<ItemRest ItemRest="3" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток газированный Fr.Bar Asian Mix пэт 0,48" ItemCode="7640157156644"/>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток газированный Fr.Bar Citrus Ice пэт 0,48" ItemCode="7640157151717"/>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток газированный Tornado Max Storm пэт 1,0" ItemCode="7640157151755"/>
+				<ItemRest ItemRest="3" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток энергетический Tornado GreenApple жб 0,45" ItemCode="7640157156620"/>
+				<ItemRest ItemRest="6" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток энергетический Tornado Max Black жб 0,45" ItemCode="7640157156989"/>
+				<ItemRest ItemRest="6" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Напиток энергетический Tornado Max Skill жб 0,45" ItemCode="7640157157061"/>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Kent Блю" ItemCode="46233202"/>
+				<ItemRest ItemRest="9" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Kent Кристалл" ItemCode="46233141"/>
+				<ItemRest ItemRest="4" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Kent Сильвер" ItemCode="46233219"/>
+				<ItemRest ItemRest="3" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Lucky Strike Бласт" ItemCode="46241351"/>
+				<ItemRest ItemRest="2" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Lucky Strike Компакт Блю" ItemCode="46240156"/>
+				<ItemRest ItemRest="5" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Lucky Strike Ориджинал" ItemCode="46246813"/>
+				<ItemRest ItemRest="4" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Rothmans Royals Блю" ItemCode="000000462333700YE9iIIAC&quot;8+h0C"/>
+				<ItemRest ItemRest="5" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Rothmans Royals Ред" ItemCode="46233325"/>
+				<ItemRest ItemRest="1" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Rothmans Деми" ItemCode="46233349"/>
+				<ItemRest ItemRest="3" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Ява Белое Золото Класс." ItemCode="46233554"/>
+				<ItemRest ItemRest="5" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Сигареты Ява Белое Золото Оригинальная" ItemCode="46233561"/>
+				<ItemRest ItemRest="49" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Чай Greedfield Classic Breakfast черный шт" ItemCode="4605246005824"/>
+				<ItemRest ItemRest="50" StorageExtCode="" StorageName="Розничный склад" ItemExtCode="" ItemName="Чай Greedfield Jasmin Dream зеленый  шт" ItemCode="4605246005862"/>
+			</ItemRests>
+		</Session>
+	</Sessions>
+</DataPaket>
